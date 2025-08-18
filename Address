@@ -4,8 +4,8 @@ public static void main(String [] args) {
 
 System.out.print("Kirti Gwalani\n");
 
-System.out.println("South West Delhi");
+System.out.println("Kasganj");
 
-System.out.println("New Delhi"); }
+System.out.println("Kasganj, Uttar Pradesh"); }
 
 }
