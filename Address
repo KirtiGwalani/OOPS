@@ -2,7 +2,7 @@ public class address {
 
 public static void main(String [] args) {
 
-System.out.print("TANISHKA\n");
+System.out.print("Kirti Gwalani\n");
 
 System.out.println("South West Delhi");
 
